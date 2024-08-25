@@ -64,8 +64,8 @@ export default function Home() {
                     Spending on Single-Use Books?
                   </h3>
                   <p className='text-center text-gray-500 dark:text-gray-400'>
-                    Stop buying books you'll only read once. Share and borrow
-                    instead!
+                    Stop buying books you&apos;ll only read once. Share and
+                    borrow instead!
                   </p>
                 </CardContent>
               </Card>
@@ -85,7 +85,7 @@ export default function Home() {
                     Missing Great Recommendations?
                   </h3>
                   <p className='text-center text-gray-500 dark:text-gray-400'>
-                    Discover new reads through your friends' libraries.
+                    Discover new reads through your friends&apos; libraries.
                   </p>
                 </CardContent>
               </Card>
@@ -108,8 +108,8 @@ export default function Home() {
               <div className='flex flex-col space-y-2'>
                 <h3 className='text-xl font-bold'>Discover New Reads</h3>
                 <p className='text-gray-500 dark:text-gray-400'>
-                  Explore your friends' bookshelves and find hidden gems you
-                  might have missed.
+                  Explore your friends&apos; bookshelves and find hidden gems
+                  you might have missed.
                 </p>
               </div>
               <div className='flex flex-col space-y-2'>
@@ -155,8 +155,8 @@ export default function Home() {
                 <Search className='h-12 w-12 text-primary' />
                 <h3 className='text-xl font-bold'>3. Browse & Borrow</h3>
                 <p className='text-gray-500 dark:text-gray-400'>
-                  Explore your friends' libraries and request to borrow books
-                  you're interested in.
+                  Explore your friends&apos; libraries and request to borrow
+                  books you&apos;re interested in.
                 </p>
               </div>
             </div>
